@@ -1,6 +1,7 @@
 ## About Me
 
-I am a student at DCI, passionate about coding and learning new technologies. I love working on web development projects and constantly improving my skills.
+I am a student at DCI, passionate about coding and learning new technologies.
+I love working on web development projects and constantly improving my skills.
 
 ### Skills
 
