@@ -1,2 +1,2 @@
-Updated the file that was prewiusli renamed.
+Updated the file that was preciously renamed.
 
