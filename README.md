@@ -6,8 +6,10 @@ I am a student at DCI, passionate about coding and learning new technologies. I 
 
 - HTML
 - CSS
-- JavaScript
-- React
+- C++
+- XML
+- PHP
+- Mysql
 
 ### Contact Me
 
