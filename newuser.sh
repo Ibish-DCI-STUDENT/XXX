@@ -16,3 +16,12 @@ sudo groupadd $groupname
 sudo usermod -aG $groupname $username
 
 echo "New user '$username' and group '$groupname' created successfully."
+
+
+# Set  variables
+export MY_VARIABLE=" IS everything OK"
+export ANOTHER_VARIABLE="If So Send me an Email"
+
+# Use the variables
+echo $MY_VARIABLE
+echo $ANOTHER_VARIABLE
